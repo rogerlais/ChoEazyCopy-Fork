@@ -8,3 +8,5 @@ packages/*
 publish/*
 /.vs/ChoEazyCopy/v15/Server/sqlite3
 /.vs/ChoEazyCopy
+.vs.OL.OLD
+.vs.old
